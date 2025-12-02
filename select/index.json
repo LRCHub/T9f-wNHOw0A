@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "星の少年",
+  "base_artist": "YUSUKE CHIBA - SNAKE ON THE BEACH -",
+  "createdAt": "2025-12-02T01:46:30.324617Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星の少年",
+      "artist": "YUSUKE CHIBA - SNAKE ON THE BEACH -",
+      "has_synced": false,
+      "path": "select/pl_01_星の少年_YUSUKE_CHIBA_-_SNAKE_ON_THE_BEACH_-.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "星の少年",
+      "artist": "YUSUKE CHIBA - SNAKE ON THE BEACH -",
+      "has_synced": false,
+      "path": "select/pl_02_星の少年_YUSUKE_CHIBA_-_SNAKE_ON_THE_BEACH_-.txt"
+    }
+  ]
+}
